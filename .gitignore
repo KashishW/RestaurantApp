@@ -1,0 +1,12 @@
+# To ignore specific log file
+/mylogs.log
+
+# To ignore all logs files
+*.log
+
+# To ignore all cpp files
+*.cpp
+
+
+# To ignore specific folder named ignore
+ignore/
